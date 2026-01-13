@@ -2,4 +2,4 @@
 
 This is my first repo
 <br>
-----Developed by shrushti
+----Developed by shrushti(Author)
