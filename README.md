@@ -2,4 +2,4 @@
 
 This is my first repo
 <br>
-----Developed by onkar
+----Developed by shrushti
